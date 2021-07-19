@@ -1,2 +1,2 @@
 # CSE-595
-problems of CSE 595
+Problems of CSE 595
